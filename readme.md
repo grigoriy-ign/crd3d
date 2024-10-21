@@ -35,6 +35,11 @@ crd3d is a Flash (SWF) 3D engine written in ActionScript years ago (2008-2012) a
 * Right-click on any Main files (MainCube, MainGame), etc.
 * Choose "Set Document Class"
 * Press F5 to build and run
+  
+## Demos
+![](res/screens/scr1.jpg "Z-clipping")
+![](res/screens/scr2.jpg "Sprites")
+![](res/screens/scr3.jpg "Room")
 
 ## License
 
